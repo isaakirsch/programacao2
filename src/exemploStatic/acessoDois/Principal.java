@@ -1,6 +1,6 @@
 package exemploStatic.acessoDois;
 
-import aula20.exemploStatic.acesso.Pessoa;
+import exemploStatic.acesso.Pessoa;
 
 public class Principal {
     public static void main (String[] args){
